@@ -2,13 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51513f8c-c69c-41ae-b455-4be8fcb8156c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/data-science-and-big-data-analytics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/minimal_regression/covariance_matrix.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/minimal_regression/iris_logistic_loss_function.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/minimal_regression/iris_softmax.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/minimal_regression/linear_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/minimal_regression/linear_regression_diabetis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/minimal_regression/surface_iris.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/minimal_regression/understanding_sigmoid.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/minimal_seaborn/seaborn_surface_scatter_extend.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/classification-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/classification-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/classification-iris-logistic-regression-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/classification-iris-logistic-regression-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/clustering-blobs-kmeans-within-sum-of-squares-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/clustering-blobs-kmeans-within-sum-of-squares-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/clustering-gaussian-blubs-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/clustering-gaussian-blubs-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/clustering-gaussian-iris-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/clustering-gaussian-iris-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/clustering_bulbs_3D-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/clustering_bulbs_3D-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/clustering_db_scan-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/clustering_db_scan-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/clustering_hierarchical-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/clustering_hierarchical-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/clustering_kmeans_BLOBS_sumofsquare-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/clustering_kmeans_BLOBS_sumofsquare-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/covariance-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/covariance-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/.ipynb_checkpoints/moon_shaped_data_db_scan-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/.ipynb_checkpoints/moon_shaped_data_db_scan-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/classification-iris-logistic-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/classification-iris-logistic-regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/clustering-blobs-kmeans-within-sum-of-squares.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/clustering-blobs-kmeans-within-sum-of-squares.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/clustering-gaussian-blubs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/clustering-gaussian-blubs.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/clustering-gaussian-iris.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/clustering-gaussian-iris.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/clustering_bulbs_3D.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/clustering_bulbs_3D.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/clustering_db_scan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/clustering_db_scan.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/clustering_db_scan_moon_shaped_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/clustering_db_scan_moon_shaped_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/clustering_hierarchical.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/clustering_hierarchical.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/clustering_kmeans_BLOBS_sumofsquare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/clustering_kmeans_BLOBS_sumofsquare.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/minimal_clustering/covariance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/minimal_clustering&amp;classification/covariance.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="e8f67f04-b226-4b27-8558-e1914148b875" />
   <component name="ProjectId" id="1THyIGAQLq3F3fjHd5SDl0pg7Xt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,6 +80,8 @@
       <workItem from="1573131252357" duration="599000" />
       <workItem from="1573422981991" duration="102000" />
       <workItem from="1576437428840" duration="633000" />
+      <workItem from="1576438154159" duration="91000" />
+      <workItem from="1576438579452" duration="293000" />
     </task>
     <task id="LOCAL-00001" summary="# added my notebooks">
       <created>1576437598369</created>
@@ -63,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576437598369</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="# try2">
+      <created>1576438217463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576438217463</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,13 +118,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="# added my notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="# added my notebooks" />
+    <MESSAGE value="# try2" />
+    <option name="LAST_COMMIT_MESSAGE" value="# try2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="588" y="214" width="800" height="677" key="#Notifications" timestamp="1576438063500">
+    <state x="588" y="214" width="800" height="677" key="#Notifications" timestamp="1576438245621">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="214" width="800" height="677" key="#Notifications/67.27.1853.1053@67.27.1853.1053" timestamp="1576438063500" />
+    <state x="588" y="214" width="800" height="677" key="#Notifications/67.27.1853.1053@67.27.1853.1053" timestamp="1576438245621" />
     <state x="481" y="143" width="1014" height="818" key="CommitChangelistDialog2" timestamp="1576438215921">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -103,14 +138,14 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="837" y="470" width="303" height="164" key="VCS.ChangelistChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1576438182965" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1576438027659">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1576438238734">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1576438027659" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1576438154256">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1576438238734" />
+    <state x="417" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1576438580940">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1576438154256" />
+    <state x="417" y="375" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1576438580940" />
     <state x="587" y="346" key="git4idea.merge.GitPullDialog" timestamp="1576438003099">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
